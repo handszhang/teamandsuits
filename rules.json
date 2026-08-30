@@ -1,0 +1,35 @@
+{
+  "categories": [
+    {"name": "判决书", "keywords": ["判决书"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "答辩状", "keywords": ["答辩状"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "证据清单", "keywords": ["证据清单", "证据材料"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "庭审笔录", "keywords": ["庭审笔录"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "法院通知书", "keywords": ["应诉通知书", "立案通知书", "开庭传票"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "授权委托书", "keywords": ["授权委托书"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "律师函", "keywords": ["律师函"], "target_path": "归档/非诉类/律师函"},
+    {"name": "法律意见书", "keywords": ["法律意见书"], "target_path": "归档/非诉类/法律意见书"},
+    {"name": "代理词", "keywords": ["代理词"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "风险代理协议", "keywords": ["风险代理协议"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "询问笔录", "keywords": ["询问笔录"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "借款合同", "keywords": ["借款合同", "借条", "担保合同"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "转账凭证", "keywords": ["转账凭证", "银行转账记录"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "律师费发票", "keywords": ["律师费发票"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "诉讼费缴费凭证", "keywords": ["诉讼费缴费凭证"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "差旅费报销单", "keywords": ["差旅费报销单"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "财产保全申请书", "keywords": ["财产保全申请书"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "管辖异议申请书", "keywords": ["管辖异议申请书"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "回避申请书", "keywords": ["回避申请书"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "微信聊天记录", "keywords": ["微信聊天记录截图"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "起诉状", "keywords": ["起诉状"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "反诉状", "keywords": ["反诉状"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "当事人身份证明", "keywords": ["当事人身份证明"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "扫描件", "keywords": ["扫描件", "案材料"], "target_path": "归档/其他类/待整理"},
+    {"name": "案件进展记录", "keywords": ["案件进展记录表", "时间节点备忘录"], "target_path": "归档/诉讼类/民商类/民间借贷"},
+    {"name": "非法律材料", "keywords": ["作业", "四明山夜校"], "target_path": "归档/其他类/待整理"}
+  ],
+  "default_category": {
+    "name": "待整理",
+    "target_path": "归档/其他类/待整理",
+    "description": "未能匹配任何规则的文件归入此目录"
+  }
+}

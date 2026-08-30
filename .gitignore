@@ -1,0 +1,14 @@
+# 运行产生的报告
+classification_report.md
+
+# 测试目录
+test_sim/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Python 缓存
+__pycache__/
+*.pyc
